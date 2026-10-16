@@ -6,3 +6,9 @@
 
 ## Estado del proyecto
 Estructura base del repositorio creada para la práctica evaluable de Sistema de Gestión Empresarial.
+
+## Contenido del Repositorio
+* **empresa/**: Ficha corporativa y catálogo comercial de la empresa.
+* **instalacion/**: Diapositiva de despliegue y registro de errores.
+* **usuarios/**: Configuración de usuarios, roles y permisos.
+* **venta/**: Memoria del ciclo comercial y justificantes en PDF.
