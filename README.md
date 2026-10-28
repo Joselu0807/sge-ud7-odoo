@@ -12,3 +12,5 @@ Estructura base del repositorio creada para la práctica evaluable de Sistema de
 * **instalacion/**: Diapositiva de despliegue y registro de errores.
 * **usuarios/**: Configuración de usuarios, roles y permisos.
 * **venta/**: Memoria del ciclo comercial y justificantes en PDF.
+## Demostración en Vídeo (UD7)
+- **Enlace de la presentación:** [(https://youtu.be/ExoSbyRYGrE)]
